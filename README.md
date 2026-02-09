@@ -35,5 +35,7 @@ How to Use
 3. Use filters and visuals to explore the data  
 
 Author
+
 Sampada Kharat
+
 Aspiring Data Analyst / Data Scientist
